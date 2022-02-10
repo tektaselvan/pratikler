@@ -56,10 +56,9 @@ Console.WriteLine("Toplam:" + Toplam);
 //Parse
 Console.WriteLine("*********Parse*********");
 
-ParseMethod();
 
-public static void ParseMethod()
-{
+
+
     string metin1 = "10";
     string metin2 = "10.25";
     int rakam1;
@@ -70,5 +69,5 @@ public static void ParseMethod()
     Console.WriteLine("rakam1:" + rakam1);
     Console.WriteLine("double1:" + double1);
 
-}
+
 
